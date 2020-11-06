@@ -11,8 +11,8 @@
   DTS:LocaleID="3082"
   DTS:ObjectName="Ordenar"
   DTS:PackageType="5"
-  DTS:VersionBuild="3"
-  DTS:VersionGUID="{6E6636C0-DC80-4A47-BC65-921C9D918B5F}">
+  DTS:VersionBuild="4"
+  DTS:VersionGUID="{9F9409AD-22AE-4C44-B76A-E12E2F4E5661}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -993,7 +993,7 @@ DP.EnglishProductName, DPC.EnglishProductCategoryName ASC</property>
         <NodeLayout
           Size="117,42"
           Id="Package\Ordenar"
-          TopLeft="196,127" />
+          TopLeft="256,77" />
       </GraphLayout>
     </LayoutInfo>
   </Package>
