@@ -11,8 +11,8 @@
   DTS:LocaleID="3082"
   DTS:ObjectName="Merge"
   DTS:PackageType="5"
-  DTS:VersionBuild="1"
-  DTS:VersionGUID="{96B8F049-B23F-48D5-903F-88902815FFF7}">
+  DTS:VersionBuild="2"
+  DTS:VersionGUID="{F11F7D29-61B3-4163-AA37-516B720871C8}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
